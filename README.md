@@ -2,25 +2,17 @@
 A cat-lady cats management. 
 Do not put any single kitty in danger.
 
+LIVE DEMO: http://cats.doniphanmolina.com 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
-# Notes
+# Local running
 
-	1. Install [nvm](https://github.com/nvm-sh/nvm), be sure running $ nvm -version works
-	2. $ nvm install 16
-	3. $ nvm use 16
-	4. We install angular-cli globally: $ npm install -g @angular/cli@10.2.0
-	5. Download the Project and navigate to the root
-	6. $ nvm use 16
+	1. Install NODEjs on your system. For further instructions how to do so, go to https://nodejs.org/
+	2. Install [nvm](https://github.com/nvm-sh/nvm). Be sure running $ nvm -version works
+	3. $ nvm install 16
+	4. $ nvm use 16
+	5. We install angular-cli globally: $ npm install -g @angular/cli@10.2.0
+	6. Download the Project and navigate to the root
 	7. $ npm install
-	9. $ ng serve --open or
-	10.$ ng serve and navigate to `http://localhost:4200/`.
-	11. Also, there's a live DEMO at http://cats.doniphanmolina.com 
-
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+	8. $ ng serve --open 
+	9. Also, there's a live DEMO at http://cats.doniphanmolina.com 
